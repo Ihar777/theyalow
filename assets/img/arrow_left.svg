@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 58" width="32" height="58">
+	<defs>
+		<image width="32" height="58" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAA6CAMAAADm6as7AAAAAXNSR0IB2cksfwAAAIRQTFRFAAAA9cUF++id/vzw/fHE++eY/O62/////fbW/fPM9skV/vjh++aT988v//30+uF/+NRG//75+dxq+NVL/vrr+NdS+NdT/vfc99E4+dph9soc/PC+///++dtk//31+dld/vzx+NhV/vvs+NZN/vnn+NRF/vji99I9/fHC/O60/fTP984r02C4UQAAACx0Uk5TALXc+ena5P/v67jz2b7708T9zcX3x8fxwMu65v7L+8r5yPfG9cTzwejj7L2Dj6DAAAAAkklEQVR4nO3OyQ6CYAyFUSpiQVEBR3DGAcH3fz+l3RiSWza6++/2O0nreX2jnjngwL/BwB8GFhgxc2iA6NPZh2A8aTvHCExn0ufoyURymhEAC+nLFQGwlr7ZEgC59KggBHZt32fd/nVCRHrAQMXxhIGK8wUDFeUVAxW3OwYqHhUGKp4GEGECqrl5maAzBxz4LXgDIdMNerROSmMAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="bnner+header">
+		<g id="ctrl">
+			<use id="Shape 1" href="#img1" x="0" y="0" />
+		</g>
+	</g>
+</svg>
